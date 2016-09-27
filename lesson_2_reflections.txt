@@ -18,4 +18,9 @@ How do the diagrams help you visualize the branch structure?
 
 The checkin diagrams show where branches start on the master branch so you can see what changes and features they contain relative to the main branch.
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The result of merging is the changes made to the files in the specified braches are combined into one set of files. 
+
+The branch diagram represents merging by having the lines of the branches converge into a single point to show the branches are now combined.
 
