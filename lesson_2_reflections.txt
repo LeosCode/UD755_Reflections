@@ -24,3 +24,8 @@ The result of merging is the changes made to the files in the specified braches 
 
 The branch diagram represents merging by having the lines of the branches converge into a single point to show the branches are now combined.
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Automatic merging removes the possibility of making merge mistakes. When automatic merging isn't possible then manual merging is the only option and mistakes can be made in the merge. Automatic merging saves time and is convenient when the authors of the conflicted code are not easy to get in contact with.
+
+
