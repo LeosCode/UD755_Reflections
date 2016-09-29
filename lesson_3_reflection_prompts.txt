@@ -30,4 +30,5 @@ Using SVN. The checkout function locks the files so changes cannot be made to th
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+Make changes in a separate branch when collaborating so that the master branch can always work and have updates waiting to be merged with it. Working in the master branch is better when there is no collaboration so the updates do not interfere with other people's work.
+
