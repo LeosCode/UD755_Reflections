@@ -24,7 +24,8 @@ You can work on the remote state offline and when you are through you can update
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+Using SVN. The checkout function locks the files so changes cannot be made to them until after a checkin. But you have to update, work, update-checkin in order to collaborate and not block other peoples work. Sometimes the update will break your work and you have to fix and re-test your work. This can keep happening if there is a lot of activity and can be very frustrating.
+
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
